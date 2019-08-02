@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Note to Self</string>
+    <string name="details">Detail</string>
+    <string name="note_name">Nama Catatan</string>
+    <string name="place">Tempat</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="click">Click</string>
+    <string name="main">Main Menu</string>
+    <string name="about">About</string>
+    <string name="name">Rizki Pratama Putra</string>
+    <string name="email">rizkipratama0602@gmail.com</string>
+</resources>
